@@ -1,0 +1,1 @@
+Add support for files that are more than 1 level down in the directory structure
